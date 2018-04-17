@@ -1,4 +1,5 @@
-# Machine-Learning-Classification-
+# Machine-Learning-Classification
+
 Classifier for EMNIST data set using KNN,  Bernoulli naive Bayes classification and Bayes classification with Gaussian distributions
 
 There are 1800 training samples and 300 test samples for each class. 
